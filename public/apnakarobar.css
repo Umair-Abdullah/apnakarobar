@@ -1,0 +1,52 @@
+.nav-link:hover{
+    color:#212121 !important;
+  }  
+.my_padd{
+  padding-top: 0px !important;
+  margin-top: -15px !important;
+}
+
+
+.navbar-inverse .navbar-nav>li>a{
+color: white !important;
+}
+a{
+  color: white;
+}
+.col-md-3{
+  align-content: center !important;
+}
+#act:hover{
+  color:black !important;
+  background-color: white !important;
+}
+.navbar{
+  background-color:#316dc3 !important;
+}
+.nav-link{
+  color: white !important;
+  font-weight: bold;}
+
+  .navbar-inverse .navbar-nav>li>a:hover{
+  color: black !important;
+}
+#myCarousel{
+  border: #316dc3 !important;
+}
+.mainh{
+  text-align: center;
+  font-size: 60px;
+  font-weight: bold;
+}
+.hleft{
+  color: black;
+}
+.hright{
+  color: #316dc3 ;
+}
+.product{
+  width: 250px;
+  height: 200px;
+}
+
+
