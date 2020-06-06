@@ -2,14 +2,20 @@
     color:#212121 !important;
   }  
 .my_padd{
-  padding-top: 2px !important;
+  padding-top: 0px !important;
+  margin-top: -15px !important;
 }
-  
+.fixed-top{
+  position: fixed !important;
+} 
+
 
 .navbar-inverse .navbar-nav>li>a{
 color: white !important;
 }
-
+a{
+  color: white;
+}
 
 .navbar{
   background-color:#316dc3 !important;
@@ -24,6 +30,16 @@ color: white !important;
 #myCarousel{
   border: #316dc3 !important;
 }
-
+.mainh{
+  text-align: center;
+  font-size: 60px;
+  font-weight: bold;
+}
+.hleft{
+  color: black;
+}
+.hright{
+  color: #316dc3 ;
+}
 
 
