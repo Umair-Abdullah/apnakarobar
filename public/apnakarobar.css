@@ -1,3 +1,4 @@
+
 .nav-link:hover{
     color:#212121 !important;
   }  
@@ -16,10 +17,8 @@ a{
 .col-md-3{
   align-content: center !important;
 }
-#act:hover{
-  color:black !important;
-  background-color: white !important;
-}
+
+
 .navbar{
   background-color:#316dc3 !important;
 }
@@ -45,8 +44,18 @@ a{
   color: #316dc3 ;
 }
 .product{
-  width: 250px;
+  width: 270px;
   height: 200px;
+  background-color: black !important;
 }
-
-
+.flink{
+  color: white;
+}
+h4{
+  text-align: center;
+  padding-top: 50px;
+  color: white !important;
+}
+.my_footer{
+  background-color: black;
+}
